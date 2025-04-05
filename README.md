@@ -36,7 +36,6 @@ Saída:
 
 Seu código criptografado é: ETVXRU
 
-
 Descriptografar
 
 Digite a frase que você quer descriptografar: ETVXRU
@@ -69,8 +68,6 @@ Upon selecting the desired option, the system:
 	•	Finally, converts the numbers back into letters to generate the final message
 
 If the input message has an odd number of letters, the last character is automatically duplicated to ensure all letter pairs are complete.
-
-⸻
 
 Key Matrix
 
